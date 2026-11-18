@@ -25,7 +25,7 @@ Agents finally made that work, so I build them in the open and show 150k+ follow
 
 | | | |
 |---|---|---|
-| **[Clickolas Cage](https://github.com/aj47/clickolas-cage)** | A Chrome extension that browses the web toward a goal with an LLM as its brain, released in 2024 before browser agents went mainstream. | <img src="https://img.shields.io/github/stars/aj47/clickolas-cage?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
+| **[Clickolas Cage](https://github.com/aj47/clickolas-cage)** | A Chrome extension that browses the web toward a goal with an LLM as its brain, started in 2023 before browser agents went mainstream. | <img src="https://img.shields.io/github/stars/aj47/clickolas-cage?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
 | **[SpeakMCP](https://github.com/aj47/SpeakMCP)** | Spawn an agent anywhere on your desktop with one keypress. | <img src="https://img.shields.io/github/stars/aj47/SpeakMCP?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
 | **[100x Orchestrator](https://github.com/aj47/100x-orchestrator)** | Runs a fleet of coding agents in separate workspaces and streams what each one is doing. | <img src="https://img.shields.io/github/stars/aj47/100x-orchestrator?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
 | **[Chaos Coder](https://chaoscoder.net)** | One prompt returns 9 different websites to pick from and edit. | <img src="https://img.shields.io/github/stars/aj47/chaos-coder?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
@@ -40,4 +40,4 @@ Agents finally made that work, so I build them in the open and show 150k+ follow
 - [Anthropic is paying Elon Musk $1.25B a month for compute](https://www.youtube.com/shorts/EKUOlRsQ-HE)
 <!-- BLOG-POST-LIST:END -->
 
-The [TechFren Discord](https://discord.gg/cK9WeQ7jPq) is where the builds get tested first.
+Come build with us in the [TechFren Discord](https://discord.gg/cK9WeQ7jPq).
