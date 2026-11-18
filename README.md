@@ -1,7 +1,7 @@
-<a href="https://techfren.net"><img src="assets/banner.svg" alt="techfren: AJ builds AI agents in public" width="100%"></a>
+<a href="https://techfren.net"><img src="assets/banner.svg" alt="techfren: AJ tells computers what to do in plain English" width="100%"></a>
 
-I'm AJ, a software engineer of 10+ years who has wanted to tell computers what to do in plain English the whole time.
-Agents finally made that work, so I build them in the open and show 150k+ followers what they can do.
+I'm AJ, a software engineer of 10+ years.
+I hand real work to AI agents and show 150k+ followers what comes back.
 
 <p>
 <a href="https://youtube.com/@techfren"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00ff00" alt="YouTube"></a>
