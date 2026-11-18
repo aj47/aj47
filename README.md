@@ -15,9 +15,7 @@ I hand real work to AI agents and show 150k+ followers what comes back.
 
 | | |
 |---|---|
-| **[DotAgents](https://github.com/aj47/dotagents-mono)** | A desktop app that puts an AI team one voice command away, built on the open [.agents protocol](https://github.com/aj47/dotagentsprotocol-website). |
 | **[gmclip](https://gmclip.com)** | A video editor where you cut by editing the words, with an MCP server so an agent can do the edit. |
-| **[CreatorToolHub](https://creatortoolhub.com)** | The tools I use to package my own videos. |
 | **[agentbattler](https://agentbattler.com)** | Coding agents write chess bots and the bots play each other, as a reproducible [benchmark](https://github.com/aj47/agentbattler-bench). |
 | **[berigame](https://beta.berigame.com)** | A cute MMO that agents can play alongside people. |
 
@@ -29,6 +27,8 @@ I hand real work to AI agents and show 150k+ followers what comes back.
 | **[SpeakMCP](https://github.com/aj47/SpeakMCP)** | Spawn an agent anywhere on your desktop with one keypress. | <img src="https://img.shields.io/github/stars/aj47/SpeakMCP?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
 | **[100x Orchestrator](https://github.com/aj47/100x-orchestrator)** | Runs a fleet of coding agents in separate workspaces and streams what each one is doing. | <img src="https://img.shields.io/github/stars/aj47/100x-orchestrator?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
 | **[Chaos Coder](https://chaoscoder.net)** | One prompt returns 9 different websites to pick from and edit. | <img src="https://img.shields.io/github/stars/aj47/chaos-coder?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
+| **[DotAgents](https://github.com/aj47/dotagents-mono)** | A desktop app that puts an AI team one voice command away, built on the open [.agents protocol](https://github.com/aj47/dotagentsprotocol-website). | <img src="https://img.shields.io/github/stars/aj47/dotagents-mono?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
+| **[CreatorToolHub](https://creatortoolhub.com)** | Tools for content creators. | <img src="https://img.shields.io/github/stars/aj47/CreatorToolHub?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
 
 ### Latest videos
 
