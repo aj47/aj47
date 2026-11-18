@@ -1,4 +1,4 @@
-<a href="https://techfren.net"><img src="assets/banner.svg" alt="techfren: AJ tells computers what to do in plain English" width="100%"></a>
+<a href="https://techfren.net"><img src="assets/banner.svg" alt="techfren: builder optimism over AI doom" width="100%"></a>
 
 I'm AJ, a software engineer of 10+ years.
 I hand real work to AI agents and show 150k+ followers what comes back.

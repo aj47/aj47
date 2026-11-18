@@ -40,7 +40,7 @@ letters = "".join(
 )
 cursor_x = x0 + size * len(WORD) + 6
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="techfren: AJ tells computers what to do in plain English">
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="techfren: builder optimism over AI doom">
 <style>
 @font-face{{font-family:'PS2P';src:url(data:font/woff2;base64,{font64}) format('woff2')}}
 .r{{font:16px monospace;fill:#00ff00}}
@@ -62,7 +62,7 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{
 <rect width="{W}" height="{H}" fill="url(#v)"/>
 {letters}
 <rect class="c" x="{cursor_x:.0f}" y="100" width="14" height="80"/>
-<text class="t" x="{W/2}" y="236" text-anchor="middle">I tell computers what to do in plain English</text>
+<text class="t" x="{W/2}" y="236" text-anchor="middle">Builder optimism over AI doom</text>
 </g>
 <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="8" fill="none" stroke="#008000" stroke-width="2"/>
 </svg>
