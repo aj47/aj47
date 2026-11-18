@@ -1,0 +1,43 @@
+<a href="https://techfren.net"><img src="assets/banner.svg" alt="techfren: AJ builds AI agents in public" width="100%"></a>
+
+I'm AJ, a software engineer of 10+ years who has wanted to tell computers what to do in plain English the whole time.
+Agents finally made that work, so I build them in the open and show 150k+ followers what they can do.
+
+<p>
+<a href="https://youtube.com/@techfren"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00ff00" alt="YouTube"></a>
+<a href="https://twitch.tv/techfren"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=00ff00" alt="Twitch"></a>
+<a href="https://x.com/techfrenAJ"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ff00" alt="X"></a>
+<a href="https://discord.gg/cK9WeQ7jPq"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00ff00" alt="Discord"></a>
+<a href="https://techfren.net"><img src="https://img.shields.io/badge/techfren.net-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff00" alt="techfren.net"></a>
+</p>
+
+### Building now
+
+| | |
+|---|---|
+| **[DotAgents](https://github.com/aj47/dotagents-mono)** | A desktop app that puts an AI team one voice command away, built on the open [.agents protocol](https://github.com/aj47/dotagentsprotocol-website). |
+| **[gmclip](https://gmclip.com)** | A video editor where you cut by editing the words, with an MCP server so an agent can do the edit. |
+| **[CreatorToolHub](https://creatortoolhub.com)** | The tools I use to package my own videos. |
+| **[agentbattler](https://agentbattler.com)** | Coding agents write chess bots and the bots play each other, as a reproducible [benchmark](https://github.com/aj47/agentbattler-bench). |
+| **[berigame](https://beta.berigame.com)** | A cute MMO that agents can play alongside people. |
+
+### Shipped earlier
+
+| | | |
+|---|---|---|
+| **[Clickolas Cage](https://github.com/aj47/clickolas-cage)** | A Chrome extension that browses the web toward a goal with an LLM as its brain, released in 2024 before browser agents went mainstream. | <img src="https://img.shields.io/github/stars/aj47/clickolas-cage?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
+| **[SpeakMCP](https://github.com/aj47/SpeakMCP)** | Spawn an agent anywhere on your desktop with one keypress. | <img src="https://img.shields.io/github/stars/aj47/SpeakMCP?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
+| **[100x Orchestrator](https://github.com/aj47/100x-orchestrator)** | Runs a fleet of coding agents in separate workspaces and streams what each one is doing. | <img src="https://img.shields.io/github/stars/aj47/100x-orchestrator?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
+| **[Chaos Coder](https://chaoscoder.net)** | One prompt returns 9 different websites to pick from and edit. | <img src="https://img.shields.io/github/stars/aj47/chaos-coder?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
+
+### Latest videos
+
+<!-- BLOG-POST-LIST:START -->
+- [I was supposed to be a dentist](https://www.youtube.com/shorts/XmqV9V__Fcg)
+- [ChatGPT coded faster than me. So I went all in.](https://www.youtube.com/shorts/yFR4cPqnQbk)
+- [$7–11M to finish my prototype. I said no.](https://www.youtube.com/shorts/8KPk0Z3mxZs)
+- [Give Your AI Agent a Time Budget](https://www.youtube.com/shorts/TYfmdMttNcQ)
+- [Anthropic is paying Elon Musk $1.25B a month for compute](https://www.youtube.com/shorts/EKUOlRsQ-HE)
+<!-- BLOG-POST-LIST:END -->
+
+The [TechFren Discord](https://discord.gg/cK9WeQ7jPq) is where the builds get tested first.
