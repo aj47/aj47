@@ -33,11 +33,11 @@ I hand real work to AI agents and show 150k+ followers what comes back.
 ### Latest videos
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you name the capital of Australia?](https://www.youtube.com/shorts/D_HSOCRtVfE)
 - [I asked AI for a pyramid documentary. Then I watched it.](https://www.youtube.com/shorts/nE6jYDYb1zs)
 - [I was supposed to be a dentist](https://www.youtube.com/shorts/XmqV9V__Fcg)
 - [ChatGPT coded faster than me. So I went all in.](https://www.youtube.com/shorts/yFR4cPqnQbk)
 - [$7–11M to finish my prototype. I said no.](https://www.youtube.com/shorts/8KPk0Z3mxZs)
-- [Give Your AI Agent a Time Budget](https://www.youtube.com/shorts/TYfmdMttNcQ)
 <!-- BLOG-POST-LIST:END -->
 
 Come build with us in the [TechFren Discord](https://discord.gg/cK9WeQ7jPq).
