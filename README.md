@@ -30,14 +30,4 @@ I hand real work to AI agents and show 150k+ followers what comes back.
 | **[DotAgents](https://github.com/aj47/dotagents-mono)** | A desktop app that puts an AI team one voice command away, built on the open [.agents protocol](https://github.com/aj47/dotagentsprotocol-website). | <img src="https://img.shields.io/github/stars/aj47/dotagents-mono?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
 | **[CreatorToolHub](https://creatortoolhub.com)** | Tools for content creators. | <img src="https://img.shields.io/github/stars/aj47/CreatorToolHub?style=flat-square&label=%E2%98%85&labelColor=000000&color=008000" alt="stars"> |
 
-### Latest videos
-
-<!-- BLOG-POST-LIST:START -->
-- [Can you name the capital of Australia?](https://www.youtube.com/shorts/D_HSOCRtVfE)
-- [I asked AI for a pyramid documentary. Then I watched it.](https://www.youtube.com/shorts/nE6jYDYb1zs)
-- [I was supposed to be a dentist](https://www.youtube.com/shorts/XmqV9V__Fcg)
-- [ChatGPT coded faster than me. So I went all in.](https://www.youtube.com/shorts/yFR4cPqnQbk)
-- [$7–11M to finish my prototype. I said no.](https://www.youtube.com/shorts/8KPk0Z3mxZs)
-<!-- BLOG-POST-LIST:END -->
-
 Come build with us in the [TechFren Discord](https://discord.gg/cK9WeQ7jPq).
